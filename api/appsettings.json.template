@@ -1,0 +1,17 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "CONF": {
+    
+    "IsKeepFullLogAccess": "1",
+    "MongoServer": "mongodb://192.168.137.253:27017/?connectTimeoutMS=600000&socketTimeoutMS=600000",
+    "MongoDb": "gwdb"
+
+  }
+}

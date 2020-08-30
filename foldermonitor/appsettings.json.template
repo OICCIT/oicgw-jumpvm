@@ -1,0 +1,32 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "CONF": {
+
+    "initialTimerInterval": 5,
+    "delayedTimerAddition": 1,
+    "permittedSecondsBetweenReadyEvents": 60,
+    "LogFSWEvents": false,
+    "LogFileReadyEvents": true,
+    "FSWUseRegex": false,
+
+    "TriggerFolder": "G:\\Test\\",
+    "ErrorFolder": "G:\\ERROR\\",
+    "InProgressFolder": "G:\\InProgress\\",
+    "CompletedFolder": "G:\\Completed\\",   
+
+    "IsParallel": "1",
+    "MaxParallelCore": "2",
+    "FileTypes": [ ".txt", ".csv" ],   
+    
+    "MongoServer": "mongodb://192.168.137.253:27017/?connectTimeoutMS=600000&socketTimeoutMS=600000",
+    "MongoDb": "gwdb"
+
+  }
+}
