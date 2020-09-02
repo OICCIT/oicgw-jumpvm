@@ -11,7 +11,7 @@
 
     "DefaultUser": "apiadm",
     "DefaultPassword": "P@ssw0rd",
-    "Host": "http://192.168.137.253:5000/",
+    "Host": "http://localhost:10081/",
     "MongoServer": "mongodb://192.168.137.253:27017/?connectTimeoutMS=600000&socketTimeoutMS=600000",
     "MongoDb": "gwdb"
 
