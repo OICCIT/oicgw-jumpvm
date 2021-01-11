@@ -1,15 +1,15 @@
 {
-    "PakageVersion": "0.9j",
+    "PakageVersion": "0.9k",
     "apiservice": {
         "Version" : "1.0.0.0",
-        "tags": ["0.9j","beta3"]
+        "tags": ["0.9k","beta4"]
     },
     "foldermonitor": {
         "Version" : "1.0.0.0",
-        "tags": ["0.9j","beta3"]
+        "tags": ["0.9k","beta4"]
     },
     "healthcheck": {
         "Version" : "1.0.0.0",
-        "tags": ["0.9j","beta3"]
+        "tags": ["0.9k","beta4"]
     }
 }
