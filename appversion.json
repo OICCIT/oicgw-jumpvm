@@ -6,7 +6,7 @@
     },
     "foldermonitor": {
         "Version" : "1.0.0.0",
-        "tags": ["0.9m","beta5"]
+        "tags": ["0.9n","beta5"]
     },
     "healthcheck": {
         "Version" : "1.0.0.0",
